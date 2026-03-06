@@ -2,21 +2,17 @@
 
 ## Mission en cours
 
-- **Titre** : Création MVP Dashboard pilotage
+- **Titre** : Briefing stratégique quotidien (prochaine génération automatique)
 - **Détails** :
     - Sous-tâches :
-        - [x] Générer structure fichiers .md
-        - [x] Automatiser log, analytics, tri par priorité
-        - [x] Générer README mode d'emploi
-        - [x] Synchroniser repo GitHub
-        - [ ] Documentation d’usage/MàJ en live
+        - [ ] Générer briefing à 14h chaque jour
+        - [ ] Intégration reporting quotidien/tâches/priorités
     - Priorité : P0
-    - Échéance : 2026-03-06
-    - Blocages éventuels : None
-    - Dernières heures/tokens consommés : 3h / ~2000
+    - Échéance : 2026-03-06 (et jours suivants)
+    - Blocages éventuels : Aucun
+    - Dernières heures/tokens consommés : ~0.5h / 100
     - Prochaines actions :
-        - Finaliser remplissage auto backlog/dashboard
-        - Générer analytics & récap historique
-        - Suivi + reporting automatisé
+        - Génération auto briefing prochaine session
+        - Intégration analytics reporting journalier
 
-*Toujours UNE mission active. Mise à jour automatique à l’avancement.*
+*Toujours UNE mission active. Mise à jour à l’avancement.*
